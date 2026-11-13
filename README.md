@@ -92,5 +92,3 @@ GDSII),” PrimeMOS Research & Solutions, tutorial document, undated.
 ## Authors
 Ayush Tiwari, Abeer Gupta. Guide: Dr. Chitrakant Sahu.
 
-## License
-MIT (code). Report and slides: all rights reserved / CC BY 4.0 (your choice).
